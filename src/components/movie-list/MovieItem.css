@@ -1,0 +1,8 @@
+.movie-poster {
+  display: inline-block;
+  width: 50%;
+}
+
+.movie-description {
+  display: inline-block;
+}
